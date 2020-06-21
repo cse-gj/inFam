@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mark"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="찍어둔 마커 리스트"
+        />
+
+    <item
+        android:id="@+id/record"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="지난기록들"
+        />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="로그아웃 하기"
+        />
+    <item
+        android:id="@+id/bye"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="탈퇴하기"
+        />
+
+</menu>
+
+

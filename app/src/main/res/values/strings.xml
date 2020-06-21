@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">inFam</string>
+    <string name="rc_color">splash_background</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="user_name">hgj248difweifwe</string>
+</resources>
